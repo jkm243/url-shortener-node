@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A url shortener made with netlify",
   "main": "index.js",
-  "homepage": "https://jsair.io",
+  "homepage": "https://jkmconception.com",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
       "shorten": "netlify-shortener"
