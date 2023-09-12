@@ -1,0 +1,15 @@
+{
+  "name": "url-shortener-node",
+  "version": "1.0.0",
+  "description": "A url shortener made with netlify",
+  "main": "index.js",
+  "homepage": "https://jsair.io",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
